@@ -1,5 +1,5 @@
 # Bie-Hive-modlist-and-config
-Contains required mods and config folder for the Bie Hive
+Contains required mods and config folder for the Bie Hive. 
 In order to hide the IP as this is a public repository, ask RockWig for the config folder
 
 Installation instructions:
